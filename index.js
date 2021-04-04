@@ -9,4 +9,4 @@ var visualization = d3plus.viz()
   .id("name")
   .x("year")
   .y("value")
-  .draw()
+  .draw();
